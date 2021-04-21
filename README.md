@@ -26,14 +26,7 @@
 ## [HackerNews 클론 앱](https://github.com/InSeong-So/AppYouMustCreate/tree/main/hacker-news)
 <div align=center>
 <!-- 학습 항목 -->
-<h3 style="color:skyblue; font-weight:bold;">[ 학습 항목 ]</h3>
-<br>
-<h4 style="background-color:#2d8a4b; width:500px;"> Hacker News API 사용 방법</h4>
-<h4 style="background-color:#007a0e; width:500px;"> SPA Programing</h4>
-<h4 style="background-color:#2d8a4b; width:500px;"> 댓글 목록, 프로필 등의 기능을 구현하는 방법</h4>
-<h4 style="background-color:#007a0e; width:500px;"> 라우팅</h4>
-<br>
-<h3 style="color:skyblue; font-weight:bold;">[ 학습 이력 ]</h3>
+<img src="./img/01.jpg" width=500>
 <!-- 학습 이력 테이블 -->
 <table>
     <thead>
@@ -55,14 +48,7 @@
 <div align=center>
 
 <!-- 학습 항목 -->
-<h3 style="color:skyblue; font-weight:bold;">[ 학습 항목 ]</h3>
-<br>
-<h4 style="background-color:#3683ff; width:500px;">JavaScript 기초</h4>
-<h4 style="background-color:#0045b3; width:500px;">Input Validation</h4>
-<h4 style="background-color:#3683ff; width:500px;">상태 값 변경(전체, 완료 등)</h4>
-<h4 style="background-color:#0045b3; width:500px;">Backend 구성 및 API 연동</h4>
-<br>
-<h3 style="color:skyblue; font-weight:bold;">[ 학습 이력 ]</h3>
+<img src="./img/02.jpg" width=500>
 <!-- 학습 이력 테이블 -->
 <table>
     <thead>
