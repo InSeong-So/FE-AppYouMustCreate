@@ -23,7 +23,7 @@
 <hr>
 <br>
 
-## [HackerNews 클론 앱](https://github.com/InSeong-So/AppYouMustCreate/tree/main/hacker-news)
+## [HackerNews 클론 앱:바로가기](https://sis-hacker-news.netlify.app/news)
 <div align=center>
 <!-- 학습 항목 -->
 <img src="./img/01.jpg" width=500>
