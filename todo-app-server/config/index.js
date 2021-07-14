@@ -1,3 +1,0 @@
-exports.SECRET_KEY = "SIS-REST-API-WITH-TOKEN";
-
-exports.EXPIRATION_DATE = "100d";
