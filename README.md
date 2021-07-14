@@ -1,41 +1,38 @@
-# 반드시 만들 수 있어야 하는 앱 8선
-## Trello 클론 앱
+# App you must be created 8
+## Project 1. Trello Clone
 
 <br>
 <hr>
 <br>
 
-## 사용자 관리 대시 보드
+## Project 2. User Admin Dashboard
 
 <br>
 <hr>
 <br>
 
-## 암호 통화 추적기
+## Project 3. Cryptocurrency Tracker (Native Mobile App)
 
 <br>
 <hr>
 <br>
 
-## Webpack 처음부터 설정하기
+## Project 4. Setup Your Very Own Webpack Config From Scratch
 
 <br>
 <hr>
 <br>
 
-## [HackerNews 클론 앱:바로가기](https://sis-hacker-news.netlify.app)
+## Project 5. Hacker News Clone
 <div align=center>
-<!-- 학습 항목 -->
-<img src="./img/01.jpg" width=500>
-<!-- 학습 이력 테이블 -->
 <table>
     <thead>
-        <th>일자</th>
-        <th>내용</th>
+        <th>Date</th>
+        <th>Content</th>
     </thead>
     <tbody>
         <td>2021.04.21</td>
-        <td>API 사용 방법, 라우팅, SPA 맛보기</td>
+        <td>API Usage, Routing, SPA</td>
     </tbody>
 </table>
 </div>
@@ -44,20 +41,16 @@
 <hr>
 <br>
 
-## TO-DO 앱
+## Project 6. To-do App
 <div align=center>
-
-<!-- 학습 항목 -->
-<img src="./img/02.jpg" width=500>
-<!-- 학습 이력 테이블 -->
 <table>
     <thead>
-        <th>일자</th>
-        <th>내용</th>
+        <th>Date</th>
+        <th>Content</th>
     </thead>
     <tbody>
-        <td>-</td>
-        <td>-</td>
+        <td>2021.07.15</td>
+        <td>LocalStorage</td>
     </tbody>
 </table>
 </div>
@@ -66,17 +59,17 @@
 <hr>
 <br>
 
-## 드래그 앤 드롭으로 정렬 가능한 앱
+## Project 7. A Sortable Drag and Drop List
 
 <br>
 <hr>
 <br>
 
-## 메신저 클론 앱
+## Project 8. A Messenger Clone (Native App)
 
 <br>
 <hr>
 <br>
 
-## 참조
-- [블로그](https://tagilog.tistory.com/579)
+## References
+- [Page](https://betterprogramming.pub/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
