@@ -1,29 +1,29 @@
 # App you must be created 8
-## Project 1. Trello Clone
+## App 1. Trello Clone
 
 <br>
 <hr>
 <br>
 
-## Project 2. User Admin Dashboard
+## App 2. User Admin Dashboard
 
 <br>
 <hr>
 <br>
 
-## Project 3. Cryptocurrency Tracker (Native Mobile App)
+## App 3. Cryptocurrency Tracker (Native Mobile App)
 
 <br>
 <hr>
 <br>
 
-## Project 4. Setup Your Very Own Webpack Config From Scratch
+## App 4. Setup Your Very Own Webpack Config From Scratch
 
 <br>
 <hr>
 <br>
 
-## Project 5. Hacker News Clone
+## App 5. Hacker News Clone
 <div align=center>
 <table>
     <thead>
@@ -41,7 +41,7 @@
 <hr>
 <br>
 
-## Project 6. To-do App
+## App 6. To-do App
 <div align=center>
 <table>
     <thead>
@@ -59,13 +59,13 @@
 <hr>
 <br>
 
-## Project 7. A Sortable Drag and Drop List
+## App 7. A Sortable Drag and Drop List
 
 <br>
 <hr>
 <br>
 
-## Project 8. A Messenger Clone (Native App)
+## App 8. A Messenger Clone (Native App)
 
 <br>
 <hr>
