@@ -26,6 +26,7 @@ h1 {
   background-color: slategray;
   max-width: 100%;
   width: 400px;
+  box-shadow: 2px solid lightgreen;
 }
 
 .item {
@@ -34,6 +35,11 @@ h1 {
   margin: 1rem auto;
   height: 7rem;
   background-color: #f5f5f5;
+}
+
+.dragging {
+  opacity: 0.5;
+  border: 3px dashed black;
 }
 
 .photo {
@@ -53,6 +59,10 @@ h1 {
   height: 90%;
 }
 
+.content>p {
+  height: 65%;
+}
+
 .footer {
   display: flex;
   height: auto;
@@ -60,11 +70,11 @@ h1 {
 }
 
 .footer .left {
-  width: 50%;
+  width: 40%;
   text-align: left;
 }
 
 .footer .right {
-  width: 50%;
+  width: auto;
   text-align: right;
 }
